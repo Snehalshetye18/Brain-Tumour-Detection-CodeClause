@@ -4,3 +4,9 @@ A brain tumor is an abnormal growth of tissue in the brain or central spine that
 ## Libraries Used In The Notebook
 OpenCV \
 TensorFlow
+
+## Working of the Model
+The GUI can be used to detect and view the tumor region. \
+The tensorflow model can be used to detect if the MRI image contains tumor or not.
+
+
